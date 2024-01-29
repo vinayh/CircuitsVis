@@ -16,7 +16,7 @@
     "./package.json": "./package.json",
     ".": {
       "types": "./dist/index.d.ts",
-      "import": "./dist/index.esm.mjs",
+      "import": "./dist/module/index.js",
       "require": "./dist/index.cjs.js"
     }
   },
